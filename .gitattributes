@@ -1,2 +1,29 @@
-# Auto detect text files and perform LF normalization
+# Automatically handle line endings for text files
 * text=auto
+
+# MATLAB source files
+*.m text eol=lf
+
+# Markdown and text documentation
+*.md text eol=lf
+*.txt text eol=lf
+
+# MATLAB binary/data files
+*.mat binary
+*.fig binary
+*.mlx binary
+*.slx binary
+*.mlapp binary
+
+# Images and documents
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+
+# Compressed files
+*.zip binary
+*.tar binary
+*.gz binary
+*.rar binary
