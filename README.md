@@ -186,12 +186,3 @@ If you use this code or build upon this work, please cite:
   doi={10.1007/s13246-019-00806-w}
 }
 ```
-
----
-
-## Author
-
-**Hesam Shokouh Alaei**  
-Researcher in biomedical signal processing, EEG/ECG analysis, machine learning, and seizure-related modelling.
-
-GitHub: [Hesam-lab](https://github.com/Hesam-lab)
